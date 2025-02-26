@@ -1,7 +1,7 @@
 # 🐍Code Comparison Tool
 
 ## 🚀 Overview
-Ever struggled to spot the differences between two similar Python files? Maybe a researcher tweaked an ML framework, or your colleague made "tiny" changes that broke everything? Worry not! This tool helps you **smartly compare** Python files, filtering out meaningless whitespace changes and giving you a **clear picture of real modifications**.
+It's just that when I want to Reproduction Code about some paper on the baseline, I need to find the code difference between the paper and baseline. I believe there must be other repositories which are strong enough for code comparison. I just write this code with GPT and DeepSeek, and hope it will be useful for you.  
 
 ## 🔥 Features
 - **Ignores whitespace changes & empty lines** because who cares about extra spaces?
@@ -27,6 +27,9 @@ python compare.py original.py modified.py
 ### 🖥 Output
 1. **Terminal Output:** Shows a clean diff highlighting changes.
 2. **HTML Report:** Creates `diff_report.html`, open it in any browser and enjoy the colorful diff magic! ✨
+
+## 🚧 Recent plans
+### Graphical User Interface
 
 ## 📜 Example Diff Output
 Sample terminal output:
