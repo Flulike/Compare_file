@@ -17,11 +17,11 @@ No installation needed! Just run the script and you're good to go.
 ## 🚀 Usage
 Fire up your terminal and run:
 ```sh
-python compare.py <file1.py> <file2.py>
+python compare_py_file.py <file1.py> <file2.py>
 ```
 Example:
 ```sh
-python compare.py original.py modified.py
+python compare_py_file.py original.py modified.py
 ```
 
 ### 🖥 Output
